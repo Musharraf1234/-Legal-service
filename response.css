@@ -1,0 +1,122 @@
+@media only screen and (max-width: 910px){
+    .service-contain1{
+        display: flex;
+        flex-direction: column;
+    }
+    .portfolio{
+        width: 100%;
+        
+    }   
+}
+
+@media only screen and (max-width: 650px) {
+    .navright li{
+        display: none;
+    }
+    .navbtn{
+        display: block;
+    }
+    .img-0001{
+        width:150px;
+    }
+    .container{
+        height: 100vh;
+    }
+    .btn1{
+        display: none;
+    }
+    .btn2{
+        display: none;
+    }
+    .headingfirst{
+        width: 70%;
+        font-size: 20px;
+    }
+    .data-001{
+        margin-left: 15px;
+    }
+    .img-1011{
+        display: block;
+        width: 200px;
+        border-radius: 100px;
+    }
+    .list-001{
+        width: 100%;
+        margin-bottom: 15px;
+        
+    }  
+    .img-1010{
+
+        display: none;
+    }
+    .nxt-div{
+        padding-left: 15px;
+    }
+    .inner h1{
+        font-size: 22px;
+        
+    }
+     .inner p{
+        font-size: 18px;
+
+     }
+    .btn-nxt{
+        display: none;
+    }
+  
+  
+ 
+    .btn-nxt-div{
+        display: block;
+        text-align: center;
+    }
+    .heading-001{
+        text-align: start;
+        font-size: 28px;
+        margin-left: 15px;
+  
+    }
+    .data div{
+        line-height: 1.5;
+        font-size: 16px;
+    }
+    .bi1{
+        font-size: 35px;
+    }
+    .data-001{
+        width: 100%;
+        
+    }
+    .inp{
+        font-size: 15px;
+        height: 35px;
+    }
+    .inp-3{
+        font-size: 15px;
+    }
+    .form-control{
+        font-size: 15px;
+        padding-top: 5px;
+    }
+    .btn-001 button{
+        height: 40px;
+        width: 110px;
+        font-size: 15px;
+    }
+    footer{
+        height: 50px;
+    }
+    footer p{
+        font-size: 10px;
+    }
+
+
+
+
+
+
+
+   
+  
+
+}
